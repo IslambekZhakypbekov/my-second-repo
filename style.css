@@ -24,3 +24,15 @@ body{
     position: relative;
     border-bottom: 1px dotted dimgray;
 }
+.menu li a{
+
+    color: grey;
+    text-decoration:none ;
+    text-align: center;
+    display: block;
+    padding: 10px 0 10px 0;
+}
+.menu li a:hover{
+
+    color: rgb(207, 207, 207);
+}
