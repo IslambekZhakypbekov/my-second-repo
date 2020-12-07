@@ -18,4 +18,9 @@ body{
 .menu li{
     width: 100%;
     background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding-top: 0%;
+    float: left;
+    position: relative;
+    border-bottom: 1px dotted dimgray;
 }
