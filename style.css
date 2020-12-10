@@ -1,0 +1,11 @@
+*{
+  font-family: 'Itim', cursive;
+}
+ul{
+  list-style-type:none ;
+  background-color: rgb(41, 240, 23);
+  padding-left: 0;
+  margin: 0;
+  text-align: center; 
+  padding: 10px;
+}
