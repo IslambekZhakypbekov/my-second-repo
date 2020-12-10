@@ -28,3 +28,6 @@ a:hover{
   font-weight: bold;
   text-decoration:underline;
 }
+body{
+  margin: 0 0 0 0;
+}
