@@ -31,3 +31,7 @@ a:hover{
 body{
   margin: 0 0 0 0;
 }
+div{
+  border: 5px solid black;
+  border-radius: 50px;
+}
